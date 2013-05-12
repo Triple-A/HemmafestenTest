@@ -13,10 +13,6 @@ public class SongTest extends TestCase {
 	public SongTest() {
 		super();
 	}
-
-	public void setUp() {
-		
-	}
 	
 	public void testParseIntegration() {
 		Song song = new Song();
